@@ -1,0 +1,46 @@
+.header{
+  background-color: #29467F;
+  width: 100%;
+  padding: 8px;
+  height: auto;
+  float: left;
+}
+
+.block{
+  padding: 20px;
+  font-size: 20px;
+  background-color:#4575D4;
+  width: 10%;
+  float: left;
+
+
+}
+
+body{
+  background-color:#33CEC3;
+}
+
+.content {
+  padding-left: 10%;
+  padding-right: 10%;
+  font-size:25px ;
+  padding-top:30px ;
+  margin-top: 20px;
+}
+
+.information{
+}
+
+.pynkt{
+  float: left;
+  padding: 10px;
+}
+
+.text {
+  
+}
+
+.image {
+  width: 120px;
+  height: 60px;
+}
